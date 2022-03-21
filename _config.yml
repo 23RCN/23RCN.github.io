@@ -15,6 +15,8 @@
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+future: ture
+published: ture
 locale                   : "ko-KR"
 title                    : "201801122 유준희"
 title_separator          : "|"
